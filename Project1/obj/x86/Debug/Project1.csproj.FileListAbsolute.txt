@@ -1,0 +1,5 @@
+D:\Erben Mo\TTT-Solver\Project1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Erben Mo\TTT-Solver\Project1\bin\Debug\Project1.exe
+D:\Erben Mo\TTT-Solver\Project1\bin\Debug\Project1.pdb
+D:\Erben Mo\TTT-Solver\Project1\obj\x86\Debug\Project1.exe
+D:\Erben Mo\TTT-Solver\Project1\obj\x86\Debug\Project1.pdb
